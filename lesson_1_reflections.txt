@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helps to find any accidentaly inserted modification in your code. Also if you
+    change your code and it doesn't work anymore it will be easier to return to the
+    correct way.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    We will be able to identify each moment that there was any kind of shift in the
+    direction of the code or if there is any block that was changed that could be
+    modified or returned to turn the code clearer.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Manually it allows you to decide whenerver you judge there was an individual
+    logical change that should be checked. In the other hand, it is user dependent
+    while automatically it will not depend on user but you might miss a logical
+    cutting point.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Tracking across multiple files allow Git to change simultaneously interrelated
+    files in a repository, making proper changes so that the program can keep
+    working properly.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Git log will list all commits IDs and some more information about then while
+    git diff allows us to check the changes inserted in the code, showing how many
+    insertions and deletions have been done.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Because if we need we can undo it in a more reliable way or return to a previous
+    checkpoint to fix a bug.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    To try to save time coding and also for learning with my own evolution in coding.

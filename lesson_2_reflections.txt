@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+    When I initialize a repository it creates a Git repository folder with a .git directory
+that contains this Git history metadata. It has to be created to store files and files changes
+history.
