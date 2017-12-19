@@ -1,0 +1,5 @@
+When would you want to use a remote repository rather than keeping all your work
+local?
+  You can use a remote repository to have "broad" access to it, to share your work with
+  community and also for getting contributions to your code.
+  
